@@ -32,8 +32,6 @@ This revealed the password required to access the next level.
 
 ## Key Takeaways:
 
-    Basic SSH usage for remote access
-
-    Listing directory contents with ls
-
-    Reading file contents using cat
+- Basic SSH usage for remote access
+- Listing directory contents with ls
+- Reading file contents using cat
