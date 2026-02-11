@@ -1,4 +1,4 @@
-# Bandit Level 0 → Level 1
+# Bandit Level 0 - Level 1
 
 ## Objective
 Log into the Bandit server and retrieve the password for the next level.
